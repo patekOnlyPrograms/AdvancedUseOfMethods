@@ -1,0 +1,15 @@
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/bin/Debug/net6.0/AdvancedUseOfMethods
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/bin/Debug/net6.0/AdvancedUseOfMethods.deps.json
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/bin/Debug/net6.0/AdvancedUseOfMethods.runtimeconfig.json
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/bin/Debug/net6.0/AdvancedUseOfMethods.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/bin/Debug/net6.0/ref/AdvancedUseOfMethods.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/bin/Debug/net6.0/AdvancedUseOfMethods.pdb
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/obj/Debug/net6.0/AdvancedUseOfMethods.csproj.AssemblyReference.cache
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/obj/Debug/net6.0/AdvancedUseOfMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/obj/Debug/net6.0/AdvancedUseOfMethods.AssemblyInfoInputs.cache
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/obj/Debug/net6.0/AdvancedUseOfMethods.AssemblyInfo.cs
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/obj/Debug/net6.0/AdvancedUseOfMethods.csproj.CoreCompileInputs.cache
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/obj/Debug/net6.0/AdvancedUseOfMethods.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/obj/Debug/net6.0/ref/AdvancedUseOfMethods.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/obj/Debug/net6.0/AdvancedUseOfMethods.pdb
+/home/susruth/RiderProjects/AdvancedUseOfMethods/AdvancedUseOfMethods/obj/Debug/net6.0/AdvancedUseOfMethods.genruntimeconfig.cache

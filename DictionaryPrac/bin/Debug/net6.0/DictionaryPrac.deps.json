@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DictionaryPrac/1.0.0": {
+        "runtime": {
+          "DictionaryPrac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DictionaryPrac/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

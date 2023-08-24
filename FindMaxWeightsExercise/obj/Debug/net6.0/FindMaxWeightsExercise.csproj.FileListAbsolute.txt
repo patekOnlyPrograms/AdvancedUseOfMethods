@@ -1,0 +1,15 @@
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/bin/Debug/net6.0/FindMaxWeightsExercise
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/bin/Debug/net6.0/FindMaxWeightsExercise.deps.json
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/bin/Debug/net6.0/FindMaxWeightsExercise.runtimeconfig.json
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/bin/Debug/net6.0/FindMaxWeightsExercise.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/bin/Debug/net6.0/ref/FindMaxWeightsExercise.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/bin/Debug/net6.0/FindMaxWeightsExercise.pdb
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/obj/Debug/net6.0/FindMaxWeightsExercise.csproj.AssemblyReference.cache
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/obj/Debug/net6.0/FindMaxWeightsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/obj/Debug/net6.0/FindMaxWeightsExercise.AssemblyInfoInputs.cache
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/obj/Debug/net6.0/FindMaxWeightsExercise.AssemblyInfo.cs
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/obj/Debug/net6.0/FindMaxWeightsExercise.csproj.CoreCompileInputs.cache
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/obj/Debug/net6.0/FindMaxWeightsExercise.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/obj/Debug/net6.0/ref/FindMaxWeightsExercise.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/obj/Debug/net6.0/FindMaxWeightsExercise.pdb
+/home/susruth/RiderProjects/AdvancedUseOfMethods/FindMaxWeightsExercise/obj/Debug/net6.0/FindMaxWeightsExercise.genruntimeconfig.cache

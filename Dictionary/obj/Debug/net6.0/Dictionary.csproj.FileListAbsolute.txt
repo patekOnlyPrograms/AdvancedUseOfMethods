@@ -1,0 +1,15 @@
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/bin/Debug/net6.0/Dictionary
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/bin/Debug/net6.0/Dictionary.deps.json
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/bin/Debug/net6.0/Dictionary.runtimeconfig.json
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/bin/Debug/net6.0/Dictionary.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/bin/Debug/net6.0/ref/Dictionary.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/bin/Debug/net6.0/Dictionary.pdb
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/obj/Debug/net6.0/Dictionary.csproj.AssemblyReference.cache
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/obj/Debug/net6.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/obj/Debug/net6.0/Dictionary.AssemblyInfoInputs.cache
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/obj/Debug/net6.0/Dictionary.AssemblyInfo.cs
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/obj/Debug/net6.0/Dictionary.csproj.CoreCompileInputs.cache
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/obj/Debug/net6.0/Dictionary.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/obj/Debug/net6.0/ref/Dictionary.dll
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/obj/Debug/net6.0/Dictionary.pdb
+/home/susruth/RiderProjects/AdvancedUseOfMethods/Dictionary/obj/Debug/net6.0/Dictionary.genruntimeconfig.cache
